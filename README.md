@@ -70,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Melhorias de UI/UX com paleta Dark Mode e efeitos de hover usando styled-components
+<img width="736" height="455" alt="image" src="https://github.com/user-attachments/assets/7dd7a72e-2485-4000-90fd-6b95f4ae4cdc" />
+
